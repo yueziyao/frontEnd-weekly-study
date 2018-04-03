@@ -1,10 +1,7 @@
 # weekly 
 weekly study and good articles collecting!
 
-## Design
-we are not only coders but also designers!
+## stay hungry,stay foolish!
 
-[design articles](https://github.com/yueziyao/weekly/issues/1)
-
-## develop
-Belive，one day，I would say “stay hungry,stay foolish!”
+* [design articles](https://github.com/yueziyao/weekly/issues/1)
+* [weekly-study-2018-04-02](https://github.com/yueziyao/weekly/issues/1)
