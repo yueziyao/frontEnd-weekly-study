@@ -12,3 +12,6 @@
 * [如何成为一个优秀的工程师 （陆奇）](https://mp.weixin.qq.com/s?__biz=MzA3OTQyNzcwNw==&mid=2650387426&idx=1sn=8f47c85367575a4d65608d8d6e4fdcae)
 * [一个程序员的成长之路 - 剖析别人，总结自己 ](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw)
 
+### 201806
+
+* [我在阿里的三年 ](https://www.w3cplus.com/in-alibaba-three-years.html)
