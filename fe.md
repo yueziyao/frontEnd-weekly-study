@@ -24,3 +24,6 @@
 
 ### 201807
 * [vue技术解析](http://hcysun.me/vue-design/)
+* [新的 CSS 特性正在改变网页设计(别看grid一章)](https://github.com/xitu/gold-miner/blob/master/TODO1/future-of-web-design.md)
+* [CSS3 animation属性中的steps功能符深入介绍](https://www.zhangxinxu.com/wordpress/2018/06/css3-animation-steps-step-start-end/)
+* [Webpack 4 配置最佳实践](https://github.com/ProtoTeam/blog/blob/master/201806/3.md)
