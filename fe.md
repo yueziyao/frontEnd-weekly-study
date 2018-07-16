@@ -29,3 +29,4 @@
 * [Webpack 4 配置最佳实践](https://github.com/ProtoTeam/blog/blob/master/201806/3.md)
 * [优雅的选择字体](https://segmentfault.com/a/1190000006110417)
 * [webpack4.0手写](https://juejin.im/post/5b4609f5e51d4519596b66a7)
+* [从设计师的角度看 Redux](https://mp.weixin.qq.com/s/PlOdvq3Xe4Heo8Xxf2gEfg)
