@@ -14,3 +14,6 @@
 
 * [业务系统 UX 设计中的常见错误](https://zhuanlan.zhihu.com/p/36015397)
 * [轮播图十原则](https://zhuanlan.zhihu.com/p/37124350)
+
+### 201807
+* [实力科普：为什么浮层或弹框一定要有叉叉关闭按钮？](https://www.zhangxinxu.com/wordpress/2018/07/why-dialog-panel-need-close-button/)
