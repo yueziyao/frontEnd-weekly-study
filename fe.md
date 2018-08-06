@@ -32,3 +32,8 @@
 * [从设计师的角度看 Redux](https://mp.weixin.qq.com/s/PlOdvq3Xe4Heo8Xxf2gEfg)
 * [基于后编译的国际化解决方案(vue-i18n)](https://juejin.im/post/5b47148c518825196b01ca3a)
 * [嗨，送你一张Web性能优化地图](https://github.com/berwin/Blog/issues/23)
+
+### 201808
+* [Performance 工具指北](https://zhuanlan.zhihu.com/p/41017888)
+* [五个最新的CSS特性以及如何使用它们](https://zhuanlan.zhihu.com/p/40736286)
+* [深入解析ES Module](https://zhuanlan.zhihu.com/p/40733281)
