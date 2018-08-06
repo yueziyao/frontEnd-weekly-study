@@ -18,3 +18,6 @@
 ### 201807
 * [实力科普：为什么浮层或弹框一定要有叉叉关闭按钮？](https://www.zhangxinxu.com/wordpress/2018/07/why-dialog-panel-need-close-button/)
 * [网易云音乐王诗沐：方法论其实没那么重要 ](https://mp.weixin.qq.com/s?__biz=MzUyMDQ5NzI5Mg==&mid=2247497915&idx=1&sn=46c2e72460e26100f35627457be81e7c)
+
+### 201808
+* [写好shell脚本的13个技巧](http://www.infoq.com/cn/articles/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux)
