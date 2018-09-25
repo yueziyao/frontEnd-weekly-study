@@ -39,3 +39,9 @@
 * [深入解析ES Module](https://zhuanlan.zhihu.com/p/40733281)
 * [webpack4 入门](https://juejin.im/entry/5b63eb8bf265da0f98317441)
 * [改变用户体验的滚动新特性](https://www.w3cplus.com/css/new-scroll-features-that-change-the-user-experience.html)
+
+### 201809
+* [如何保障前端项目代码质量](https://lzw.me/a/fed-code-quality.html)
+* [考拉会员后台Webpack优化实战](https://zhuanlan.zhihu.com/p/42465502)
+* [2018你应该知道的Web性能信息采集指南](https://mp.weixin.qq.com/s/UYcMeqZGblupVpGue-IThg)
+* [借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/)
