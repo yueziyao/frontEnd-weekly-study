@@ -54,3 +54,4 @@
 * [kepler.gl在海量地理定位数据可视化的应用@何珊_FEDAY 2018](https://mp.weixin.qq.com/s/goTM_E8pn8gPUKa0hlE0Dg)
 * [精致化的微前端开发之旅](https://zhuanlan.zhihu.com/p/46284079)
 * [单屏页面响应式适配玩法](https://aotu.io/notes/2018/10/22/Responsive-single-screen-design/)
+* [Docker 构建统一的前端开发环境](https://juejin.im/post/5b127087e51d450686184183)
