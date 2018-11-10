@@ -16,3 +16,6 @@
 
 * [我在阿里的三年 ](https://www.w3cplus.com/in-alibaba-three-years.html)
 * [傅盛：“超级复杂时代”来临，思维成长最重要](https://mp.weixin.qq.com/s?__biz=MjM5NjgzMzkwMQ==&mid=2653646952&idx=1&sn=a198408eccd0085c67c3d32c5cf22c1f)
+
+### 201811
+* [克军：如何成为一位优秀的前端工程师？ ](https://mp.weixin.qq.com/s/FEg9eZqDcHFo-tUmLr2xxg)
